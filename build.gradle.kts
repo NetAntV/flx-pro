@@ -50,13 +50,13 @@ subprojects {
          * own github profile link
          * */
         author(
-            name = "rhenwinch",
-            socialLink = "https://github.com/rhenwinch",
+            name = "Bookflixtv",
+            socialLink = "https://github.com/Bookflixtv",
         )
         // author( ... )
         // author( ... )
 
-        setRepository("https://github.com/Flixclusive/flx-providers")
+        setRepository("https://github.com/Bookflixtv/flx-providers")
     }
 
     android {
